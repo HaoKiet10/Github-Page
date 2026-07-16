@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 # About
 
 Đây là trang giới thiệu.
