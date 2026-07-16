@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Home
 
 Chào mừng đến với GitHub Pages của tôi.
