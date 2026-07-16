@@ -1,13 +1,3 @@
----
-layout: default
-title: Contact
----
+# About
 
-# Contact
-
-Bạn có thể liên hệ qua:
-
-- Email: your@email.com
-- GitHub: https://github.com/your-username
-
-[← Về trang chủ](index.md)
+Đây là trang giới thiệu.
